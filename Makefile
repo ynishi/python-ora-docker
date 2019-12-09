@@ -1,6 +1,6 @@
 .PHONY: build
 ORA_VERSION=12.2
-PY_VERSION=3
+PY_VERSION=3.8.0
 NAME=python-ora
 
 build:
